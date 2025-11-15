@@ -17,6 +17,5 @@ Flam Assignment (Vanshika Patil)
 6) Final error:
    - Total L1 Error = 38102.141701148
    - Mean L1 Error per point = 25.401427800765333
-   - 
 Desmos link: https://www.desmos.com/calculator/hgvd742qpn
 Colab Notebook: https://github.com/Vanshika-P/Flam_assignment/blob/main/Assignment_Flam.ipynb
